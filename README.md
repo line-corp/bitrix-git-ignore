@@ -26,7 +26,7 @@ Bitrix Git Ignore file
 /docs/bitrix/modules/calendar
 /docs/bitrix/modules/catalog
 /docs/bitrix/modules/clouds
-/docs/bitrix/modules/custer
+/docs/bitrix/modules/cluster
 /docs/bitrix/modules/compression
 /docs/bitrix/modules/conversion
 /docs/bitrix/modules/currency
@@ -100,9 +100,16 @@ Bitrix Git Ignore file
 /docs/bitrix/php_interface/after_connect_d7.php
 /docs/bitrix/php_interface/dbconn.php
 /docs/bitrix/services
+/docs/bitrix/sounds
 /docs/bitrix/stack_cache
 /docs/bitrix/template
 /docs/bitrix/templates/.default
+/docs/bitrix/templates/desktop_app
+/docs/bitrix/templates/eshop_app
+/docs/bitrix/templates/eshop_bootstrap_green
+/docs/bitrix/templates/landing24
+/docs/bitrix/templates/learning
+/docs/bitrix/templates/mail_user
 /docs/bitrix/themes
 /docs/bitrix/tmp
 /docs/bitrix/tools
@@ -130,3 +137,5 @@ Bitrix Git Ignore file
 /docs/.user.ini
 /docs/web.config
 /docs/upload
+/docs/desktop_app
+/docs/eshop_app
